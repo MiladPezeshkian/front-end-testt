@@ -6,7 +6,6 @@ npm i
 npm run dev
 
 
-*
 
 This project is built with:
 
